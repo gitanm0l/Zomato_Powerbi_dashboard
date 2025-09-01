@@ -7,6 +7,8 @@ The goal is to provide a data-driven decision-making approach for restaurants an
 <img width="1920" height="1020" alt="Screenshot 2025-08-30 184927" src="https://github.com/user-attachments/assets/cb89eff7-1c66-45d5-bd48-c24a58e18505" />
 
 
+<img width="1920" height="1020" alt="slide_2_snapshot" src="https://github.com/user-attachments/assets/36494db5-e5a0-4af7-90ca-7a0928622767" />
+
 
 🗂️ Dataset
 
