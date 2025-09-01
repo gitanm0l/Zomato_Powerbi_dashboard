@@ -4,8 +4,8 @@ This project focuses on analyzing Zomato sales data to uncover key insights abou
 
 The goal is to provide a data-driven decision-making approach for restaurants and food delivery businesses.
 
+<img width="1920" height="1020" alt="Screenshot 2025-08-30 184927" src="https://github.com/user-attachments/assets/cb89eff7-1c66-45d5-bd48-c24a58e18505" />
 
-<img width="1252" height="1002" alt="Screenshot 2025-08-30 211444" src="https://github.com/user-attachments/assets/92b3239c-d953-40cf-ba6f-8685408c0bfa" />
 
 
 🗂️ Dataset
